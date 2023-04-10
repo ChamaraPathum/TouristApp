@@ -1,0 +1,9 @@
+export{default as girl} from "./girl.png";
+export{default as avatar} from "./avatar.png";
+export{default as hotel} from "./hotel.png";
+export{default as attraction} from "./attraction.png";
+export{default as restaurants} from "./restaurants.png";
+export{default as NotFound} from "./NotFound.png";
+export{default as pudurangala} from "./pudurangala.png";
+export{default as my} from "./my.png";
+export{default as travel} from "./travel.png";
